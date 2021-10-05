@@ -10,6 +10,7 @@ Quit the process responsible for clipboard activity if copy/paste is acting up a
 - `git reset HEAD~1` to undo commit but keep changes
 - `git reset --soft HEAD~1` to undo but also leave files and index
 - `git revert` to undo without re-writing commit history
+- `git diff --staged main` to verify before a commit
 
 ## 🍏
 
